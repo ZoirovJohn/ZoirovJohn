@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
+<!-- <h1 align="center">Hi 👋, I'm Thomas</h1>
 
 <h3 align="center">A Passionate Software Engineer</h3>
 
@@ -59,4 +59,4 @@
 
 <p align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
+</p> -->
